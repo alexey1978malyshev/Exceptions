@@ -1,4 +1,4 @@
-package hwSem3;
+package hwSem3.task1;
 
 public class PasswordValidException extends Exception{
     public PasswordValidException(String message) {
